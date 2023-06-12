@@ -2,7 +2,12 @@
 
 ![Project Image](project_image.png)
 
-This project explores and analyzes a dataset containing information about some of the oldest businesses in the world. The project aims to uncover insights into the historical and geographical aspects of these long-standing companies.
+This project explores and analyzes a dataset containing information about some of the oldest businesses in the world. The project aims to uncover insights into the historical and geographical aspects of these long-standing companies.<br>
+A few questions were answered in this analysis; <br>
+-What are the oldest businesses in the world?<br>
+-Where are the oldest businesses in the world located?<br>
+-What industries are the oldest businesses in the world in?<br>
+-What are the factors that have contributed to the longevity of the oldest businesses in the world?<br>
 
 ## Table of Contents
 
